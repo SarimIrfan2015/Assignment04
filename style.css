@@ -1,0 +1,54 @@
+body {
+    border: 5px solid black;
+    width: 20%;
+    text-align: center;
+    height: 500%;
+}
+
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px black;
+}
+
+p {
+    color: black;
+}
+
+button {
+    background: #1877f2;
+    color: #fff;
+    padding: 10px;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.forgot {
+    color: #1877f2;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.creat {
+    background: green;
+    color: #fff;
+    padding: 10px;
+    border: 0;
+    border-radius: 5px;
+}
+
+.create-page {
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.create-page a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #000;
+}
